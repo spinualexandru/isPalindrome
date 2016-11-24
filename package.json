@@ -1,0 +1,25 @@
+{
+  "name": "ispalindrome",
+  "version": "1.0.0",
+  "description": "A lightweight function that extends String to check if a string is a Palindrome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spinualexandru/isPalindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "ispalindrome",
+    "checkpalindrome",
+    "check"
+  ],
+  "author": "Spinu Alexandru-Mihai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spinualexandru/isPalindrome/issues"
+  },
+  "homepage": "https://github.com/spinualexandru/isPalindrome#readme"
+}
